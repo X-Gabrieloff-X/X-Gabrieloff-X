@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8"/>
-<link rel="stylesheet" src="index.css" type="text/css">
+ ## Hi there 👋 
 
-    
-<style>
-.title{
-    border: 5px outset black;
-    background-color: blanchedalmond;
-    text-align: center;
-}
-</style>
-</head>
-<body>
-<div class="title"> Hi there 👋 </div>
-</body>
 
