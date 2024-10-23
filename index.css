@@ -1,1 +1,5 @@
-
+.Title {
+    border: 5px outset black;
+    background-color: blanchedalmond;
+    text-align: center;
+}
