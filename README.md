@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+ # Hi 👋 
 
-
-<style>
-img{
-
-width: 100px;
-
-}
-
-
-
-</style>
-
-
-</head>
-<body>
-    <img src="Profile.jpg">
-
-
-
-
-
-
-
-</body>
-</html>
+<img src="/Profile.jpg" width=200>
